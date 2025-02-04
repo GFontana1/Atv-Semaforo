@@ -15,10 +15,7 @@ A cada segundo, é impressa uma mensagem no terminal, indicando qual LED está a
 ## Requisitos
 
 - Placa *Raspberry Pi Pico W*
-- LEDs e resistores conectados aos pinos:
-  - *Vermelho*: GPIO 11 (Verde na placa)
-  - *Amarelo*: GPIO 12 (Azul)
-  - *Verde*: GPIO 13 (Vermelho)
+- LEDs e resistores conectados aos pinos
 - Cabo USB para alimentação e comunicação serial
 - Ambiente de desenvolvimento configurado com *SDK do Raspberry Pi Pico W*
 
