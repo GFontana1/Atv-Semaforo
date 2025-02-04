@@ -1,4 +1,4 @@
-# Atividade 1 - Tarefa dia 29/01 Embarcatech
+# Atividade 1 - Semáforo - Tarefa dia 29/01 Embarcatech
 
 ## Descrição do Projeto
 
