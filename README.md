@@ -12,18 +12,12 @@ Ao rodar o código, é iniciado um loop em que cada LED fica, individualmente, a
 
 A cada segundo, é impressa uma mensagem no terminal, indicando qual LED está acesa no momento.
 
-## Requisitos
-
-- Placa *Raspberry Pi Pico W*
-- LEDs e resistores conectados
-- Cabo USB para alimentação e comunicação serial
-- Ambiente de desenvolvimento configurado com *SDK do Raspberry Pi Pico W*
-
 ## Como rodar o código
 
 1. *Compilar o código*:
    - Tenha o SDK do Raspberry Pi Pico W configurado.
    - Compile o código utilizando CMake e GCC ARM.
+   - Abra o diagram.json para ver o simulador do Wokwi
 
 2. *Transferir para o Raspberry Pi Pico W*:
    - Conecte sua placa ao computador com ela no modo **Bootsel**.
