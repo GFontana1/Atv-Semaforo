@@ -15,7 +15,7 @@ A cada segundo, é impressa uma mensagem no terminal, indicando qual LED está a
 ## Requisitos
 
 - Placa *Raspberry Pi Pico W*
-- LEDs e resistores conectados aos pinos
+- LEDs e resistores conectados
 - Cabo USB para alimentação e comunicação serial
 - Ambiente de desenvolvimento configurado com *SDK do Raspberry Pi Pico W*
 
